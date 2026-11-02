@@ -20,5 +20,6 @@ Trabalhando nisso (tem nada pra rodar ainda)
 
 ## Desesnvolvedores
 
-[João Gouveia](https://joaovgouveia.com)
-[Paulo José](https://github.com/pjose-c)
+[´João Gouveia´](https://joaovgouveia.com)
+
+[´Paulo José´](https://github.com/pjose-c)
